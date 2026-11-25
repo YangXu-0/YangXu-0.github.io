@@ -50,7 +50,11 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
-.publications ol.bibliography li .title { font-weight: bolder; }
+.publications ol.bibliography li .title { font-weight: 800; font-size: 1.35rem; line-height: 1.3; margin-bottom: 0.4rem; color: var(--global-theme-color); letter-spacing: -0.01em; }
+
+.publications ol.bibliography li .title a { color: inherit; }
+
+.publications ol.bibliography li .author { font-size: 0.85rem; color: #828282; }
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
