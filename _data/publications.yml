@@ -9,12 +9,13 @@ main:
         url: https://leaf.utias.utoronto.ca/author/nicholas-rhinehart/
       - name: Igor Gilitschenski&dagger;
         url: https://www.gilitschenski.org/igor/
-    conference: arXiv preprint 2026
+    conference: arXiv preprint 2026 (under review)
     pdf: ./assets/files/ELMO_arxiv.pdf
+    arxiv: https://arxiv.org/abs/2611.34741
     code: https://github.com/uoft-isl/ELMO
     page: https://uoft-isl.github.io/elmo.github.io/
     image: ./assets/img/elmo/elmo_tsne_thumbnail.png
-    notes: "arXiv link coming soon"
+    notes:
 
   - title: "SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments"
     authors:
@@ -28,7 +29,7 @@ main:
         url: https://jmattarian.com/
       - name: Igor Gilitschenski
         url: https://www.gilitschenski.org/igor/
-    conference: arXiv preprint 2026
+    conference: arXiv preprint 2026 (under review)
     pdf: ./assets/files/seeded_grasp_paper.pdf
     arxiv: https://arxiv.org/abs/2607.20207
     code: https://github.com/uoft-isl/SeededGrasp
