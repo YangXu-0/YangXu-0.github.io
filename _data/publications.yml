@@ -2,13 +2,10 @@ main:
   - title: "ELMO: Emergent Representations In Imitation Learning Via Dynamic Hierarchical Action Chunking"
     authors:
       - name: Jasper Gerigk*
-        url: https://jaspergerigk.com/
       - name: <b>Yang Xu*</b>
         url: /
       - name: Nicholas Rhinehart&dagger;
-        url: https://leaf.utias.utoronto.ca/author/nicholas-rhinehart/
       - name: Igor Gilitschenski&dagger;
-        url: https://www.gilitschenski.org/igor/
     conference: arXiv preprint 2026 (under review)
     pdf: ./assets/files/ELMO_arxiv.pdf
     arxiv: https://arxiv.org/abs/2611.34741
@@ -24,11 +21,8 @@ main:
       - name: Gurpreet Singh Mukker*
       - name: Raymond Wang*
       - name: Jasper Gerigk
-        url: https://jaspergerigk.com/
       - name: Maria Attarian
-        url: https://jmattarian.com/
       - name: Igor Gilitschenski
-        url: https://www.gilitschenski.org/igor/
     conference: arXiv preprint 2026 (under review)
     pdf: ./assets/files/seeded_grasp_paper.pdf
     arxiv: https://arxiv.org/abs/2607.20207
@@ -36,4 +30,4 @@ main:
     poster: ./assets/files/seeded_grasp_poster_small.pdf
     page: https://uoft-isl.github.io/seeded-grasp/
     image: ./assets/img/seeded_grasp/seeded_grasp_thumbnail.png
-    notes: 
+    notes:
